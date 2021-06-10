@@ -13,4 +13,4 @@ Table of Contents
     * You can find me in any platform with this, i guess.
 
 ### Contact me
-  * Mail me anytime [here](mailto:rez1coder@gmail.com)
+  * Mail me anytime [here](mailto:rezoansimanto@gmail.com)
