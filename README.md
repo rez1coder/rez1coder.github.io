@@ -24,9 +24,9 @@ Just wanted to share some of my favorite programming tools that have really made
 - Terminal: Kitty
   - Shell: Fish
   - Prompt: Starship
-  - Font: [Monolisa](www.monolisa.dev)
+  - Font: [Monolisa](https://www.monolisa.dev)
 - Text editor: Neovim
-- IDE: vscode ( highly recommend Caleb porzio's [MakeVScodeAwesome](www.makevscodeawesome.com) course )
+- IDE: vscode ( highly recommend Caleb porzio's [MakeVScodeAwesome](https://www.makevscodeawesome.com) course )
 - Keyboard: Das keyboard 6 professional
 - Mouse: Logitech mx master 3
 
