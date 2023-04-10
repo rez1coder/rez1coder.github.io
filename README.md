@@ -34,7 +34,7 @@ Just wanted to share some of my favorite programming tools that have really made
 Code with confidence and precision with rez1coder.
 
 ### Contact me
-Don't hesitate to reach out and connect with me. My contact information is listed below. I look forward to hearing from you!
+Don't hesitate to reach out and connect with me. I look forward to hearing from you!
   * Mail me anytime  
 rezoansimanto (at) gmail (dot) com
 
